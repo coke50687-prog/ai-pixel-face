@@ -2,6 +2,8 @@
 
 > 一份写给 **语言模型** 的像素画教程。它不教"审美"，只教**怎么把一个形状写成可复现的参数**，以及在人类说"不对"时该改哪个数。
 
+ **English** — A parametric pixel-art tutorial written for language models: how to turn a face into reproducible parameters (canvas → face shape → features → hairline → layered hair), how to measure a reference image into numbers, and what to change when the human says "not quite". Includes the failures. Python 3 + Pillow + numpy; no deep learning, no GPU.
+
 ## 先看这里（30 秒判断要不要往下读）
 
 ```
